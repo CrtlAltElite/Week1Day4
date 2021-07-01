@@ -7,9 +7,9 @@
 
 [Images](#images)
 
-[Code](#code_block)
+[Code](#code-block)
 
-[More Info](#more_information)
+[More Info](#more-information)
 
 To make custom heading IDs work with VS code install Markdown-Preview-enhanced extension
 
