@@ -3,7 +3,7 @@
 [HR](#hr)
 [Links](#links)
 [Images](#images)
-[Code](#code)
+[Code](#code_block)
 [More Info](#info)
 
 To make custom heading IDs work with VS code install Markdown-Preview-enhanced extension
@@ -32,7 +32,7 @@ You can write in **bold** or *italics* or ***both at the same time***
 
     We can even put our text in boxes
 
-## Lists {#lists}
+## Lists
 
 We can make ordered lists:
 1. item 1
@@ -51,21 +51,22 @@ We can make unorder lists:
 - second item
 - third item
 
-## HR {#hr}
+## HR 
 
 We can make a horizontal rule
 ---
 
-## Links {#links}
+## Links 
 
 we can add links [My Link](http://www.google.com)
 
-## Images {#images}
+## Images 
 
 we can add images ![my image stolen from google](https://i.chzbgr.com/thumb800/2451461/hC8A4840A/seventeen-very-funny-memes-for-today)
 
-## Code Block {#code}
+## Code Block
 We can add a line of code with \`
+
 `
 <a href="http://www.funnystuff.com"><img src="funnyimage.png"></a>
 `
@@ -75,9 +76,8 @@ We can also add code blocks with \`\`\`
 ```
     def my_function(name):
     return f"Hello {name}!"
-````
+```
     
-
 ## More Information {#info}
 
 There are a lot of different flavors of markdown out there for instance Github has their own flavor.  These commands should be universal though to all mark down languages.
