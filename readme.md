@@ -91,3 +91,5 @@ There are more options you can learn like embedding these elements inside eachot
 [Markdown Home Page](https://www.markdownguide.org/)
 
 There is also an extended syntax that is availible in many markdown applications that I have ot shown here.  You can learn more at the Markdown homepage by scrolling to Extended Syntax section of the markdown website.
+
+The links to the parts of the page in this document is designed to work with Github and may not work with all markdown applications.  for more info on github's flavor of markdown[Check out this page](https://guides.github.com/features/mastering-markdown/)
