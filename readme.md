@@ -1,10 +1,15 @@
 # Intro to Markdown
 [Lists](#lists)
+
 [HR](#hr)
+
 [Links](#links)
+
 [Images](#images)
+
 [Code](#code_block)
-[More Info](#info)
+
+[More Info](#more_information)
 
 To make custom heading IDs work with VS code install Markdown-Preview-enhanced extension
 
@@ -78,7 +83,7 @@ We can also add code blocks with \`\`\`
     return f"Hello {name}!"
 ```
     
-## More Information {#info}
+## More Information
 
 There are a lot of different flavors of markdown out there for instance Github has their own flavor.  These commands should be universal though to all mark down languages.
 
